@@ -8,10 +8,7 @@ Includes:
 - Tailwind setup (styles/globals.css)
 - Figma assets and instructions (figma/)
 
-How to run
-1. `npm install`
-2. `npx tailwindcss init -p` (or use provided tailwind.config.js)
-3. `npm run dev`
+
 
 This project is prepared for GitHub. Use Vercel for 1-click deploy.
 
